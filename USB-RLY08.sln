@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33603.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USB-RLY08 Controller", "USB-RLY08\USB-RLY08 Controller.csproj", "{3DF73056-9B48-4F88-8BD7-5AA9A5AC0D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USB-RLY08 Drivers", "USB-RLY08 Drivers\USB-RLY08 Drivers.csproj", "{C9ACAE5C-A023-4765-8DEF-0207D8E0EA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF73056-9B48-4F88-8BD7-5AA9A5AC0D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF73056-9B48-4F88-8BD7-5AA9A5AC0D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF73056-9B48-4F88-8BD7-5AA9A5AC0D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF73056-9B48-4F88-8BD7-5AA9A5AC0D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9ACAE5C-A023-4765-8DEF-0207D8E0EA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ACAE5C-A023-4765-8DEF-0207D8E0EA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ACAE5C-A023-4765-8DEF-0207D8E0EA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ACAE5C-A023-4765-8DEF-0207D8E0EA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2F7F5F-DB66-48F0-9FDF-62D2BC006B0A}
+	EndGlobalSection
+EndGlobal
